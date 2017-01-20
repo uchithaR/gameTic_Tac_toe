@@ -1,20 +1,8 @@
 {
-  "name": "c",
-  "version": "1.0.0",
-  "description": "Tic tac toe game by reactjs",
-  "main": "index.js",
-  "private" : true,
+  "name": "gameTic_Tac_toe",
+  "version": "0.0.1",
+  "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 0"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/uchithaR/TicTacToeGame.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/uchithaR/TicTacToeGame/issues"
-  },
-  "homepage": "https://github.com/uchithaR/TicTacToeGame#readme"
+  }
 }
