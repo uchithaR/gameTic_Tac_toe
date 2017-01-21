@@ -1,8 +1,8 @@
 ISSUE_TEMPLATE
 
 add test.js
-- [ ] a task list item
-- [ ] list syntax required
+- [x] add test.js
+- [ ] add node_modules to .gitignore
 - [ ] normal **formatting**, @mentions, #1234 refs
 - [ ] incomplete
 - [x] completed
