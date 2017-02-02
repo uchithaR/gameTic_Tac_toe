@@ -33,6 +33,10 @@
     float: left;
 }
 
+#btn{
+    background: #50EBEC;
+    border-radius: 10px;
+}
 .hidden {
     display: none;
 }
